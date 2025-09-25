@@ -1,6 +1,6 @@
 # Sound FX Scripts
 
-Utility scripts for generating and previewing looping sound effects with the ElevenLabs sound-generation API.
+Utility scripts for generating and previewing looping sound effects with the [ElevenLabs sound-generation API](https://elevenlabs.io/docs/api-reference/text-to-sound-effects/convert).
 
 ## Prerequisites
 - `curl` and `jq`
